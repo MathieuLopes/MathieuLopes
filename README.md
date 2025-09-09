@@ -58,3 +58,4 @@ Beyond the code, choosing a full-stack developer with 10 years of experience mea
 | **GitLab** | [https://gitlab.com/MathieuLopes](https://gitlab.com/MathieuLopes) |
 | **Stack Overflow** | [https://stackoverflow.com/users/5885817/mathieu42](https://stackoverflow.com/users/5885817/mathieu42) |
 | **Instagram** | [https://www.instagram.com/mathieu_42_42](https://www.instagram.com/mathieu_42_42) |
+| **Gravatar** | [https://gravatar.com/mathieu42profile](https://gravatar.com/mathieu42profile) |
