@@ -1,10 +1,10 @@
-# Mathieu Lopes
+# Mathieu Lopes - [Mathieu42](https://www.mathieu42.com)
 
-### Software Engineer | Full-Stack Developer | Freelance
+### Senior Full-Stack Software Engineer
 
 I'm a passionate software engineer with over 10 years of experience, specializing in building modern web applications. As the founder of **Mathieu42**, I help businesses transform their ideas into reality with clean, efficient, and scalable code.
 
-My approach combines technical excellence with a deep understanding of user experience, ensuring every project delivers both functionality and and delight. I am available for both short and long-term projects, committed to building robust and high-performance digital solutions.
+My approach combines technical excellence with a deep understanding of user experience, ensuring every project delivers both functionality and delight. I am available for both short and long-term projects, committed to building robust and high-performance digital solutions.
 
 ---
 
@@ -25,7 +25,7 @@ I build high-performance web applications, custom software, and efficient APIs u
 | :--- | :--- |
 | **Languages & Frameworks** | **Next.js** (Expert), **Laravel** (Expert), **PHP** (Expert), **HTML/JS/CSS** (Expert), **React Native** (Advanced), **Node.js** (Advanced), **TypeScript** (Advanced), **Python** (Intermediate), **Go** (Intermediate) |
 | **Databases** | **SQL** (Advanced) |
-| **Tools & Platforms** | **Git** (Advanced), **WordPress** (Advanced), **API Rest** (Advanced), **Algorithms** (Expert) |
+| **Tools & Platforms** | **Git** (Advanced), **WordPress** (Advanced), **REST APIs** (Advanced), **Problem Solving & Algorithms** (Expert) |
 | **Specializations** | **SEO** (Advanced), **Servers** (Intermediate) |
 
 ---
@@ -36,8 +36,8 @@ Beyond the code, choosing a full-stack developer with 10 years of experience mea
 
 | | |
 | :--- | :--- |
-| ⚡️ **Seamless Onboarding** | Autonomous from Day One – Thanks to my seniority, I integrate quickly into your projects. I solve problems faster, avoid common pitfalls, and deliver high-quality work on optimized timelines — turning your investment into both time and cost savings. |
-| 🧠 **Rapid Technical Problem-Solving** | Fast Resolution of Technical Challenges – My career has given me a deep understanding of both technical and business-related issues. I've handled a wide range of use cases, enabling me to anticipate challenges and offer solutions that are both proven and innovative. |
+| ⚡️ **Seamless Onboarding** | Autonomous from Day One – Thanks to my seniority, I integrate quickly into your projects. I solve problems faster, avoid common pitfalls, and deliver high-quality work on optimized timelines — helping teams save time and reduce technical friction. |
+| 🧠 **Rapid Technical Problem-Solving** | Efficient Resolution of Technical Challenges – My career has given me a deep understanding of both technical and business-related issues. I've handled a wide range of use cases, enabling me to anticipate challenges and offer solutions that are both proven and innovative. |
 | ✨ **Modern Tech Stacks** | As an expert in **Next.js**, **Laravel**, and other modern technologies, I build robust, high-performance, and scalable applications, tailored to your needs. |
 | 🔧 **Robust & Maintainable Code** | My commitment to code quality ensures reliable, maintainable, and high-performing applications in the long run — reducing future maintenance costs and minimizing the risk of bugs or downtime. |
 | 🚀 **Autonomy & Proactivity** | I work independently, manage my tasks efficiently, and take initiative to keep the project moving forward. My proactive approach frees you from the need for constant oversight, so you can stay focused on your core business. |
@@ -51,7 +51,7 @@ Beyond the code, choosing a full-stack developer with 10 years of experience mea
 
 | | |
 | :--- | :--- |
-| **Website** | [https://mathieu42.com](https://mathieu42.com) |
+| **Website** | [https://www.mathieu42.com](https://www.mathieu42.com) |
 | **Email** | [contact@mathieu42.com](mailto:contact@mathieu42.com) |
 | **LinkedIn** | [https://www.linkedin.com/in/mathieu42](https://www.linkedin.com/in/mathieu42) |
 | **GitHub** | [https://github.com/MathieuLopes](https://github.com/MathieuLopes) |
